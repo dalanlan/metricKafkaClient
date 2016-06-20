@@ -1,0 +1,1 @@
+java -cp target/hulu-maven-java-1.0-SNAPSHOT-jar-with-dependencies.jar com.hulu.eds.Main "$@"
