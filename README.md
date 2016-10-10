@@ -10,8 +10,7 @@ The consumer plays with auto-commit mechanism, or you could replace it with `see
 ### References
 1. [Kafka, Spark, and Avro - Part 1, Kafka 101](http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html)
 
-2. [Kafka, Spark, and Avro - Part 2, Consuming Kafka messages with Spark](http://aseigneurin.github.io/2016/03/03/kafka-
-spark-avro-consume-messages-with-spark.html)
+2. [Kafka, Spark, and Avro - Part 2, Consuming Kafka messages with Spark](http://aseigneurin.github.io/2016/03/03/kafka-spark-avro-consume-messages-with-spark.html)
 
 3. [Kafka, Spark, and Avro - Part 3, Producing and consuming Avro messages](http://aseigneurin.github.io/2016/03/04/kafka-spark-avro-producing-and-consuming-avro-messages.html)
 
